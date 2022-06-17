@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/jomills-bday/static/css/main.f511bc73.css",
+    "main.js": "/jomills-bday/static/js/main.d660b408.js",
+    "static/js/787.626f0596.chunk.js": "/jomills-bday/static/js/787.626f0596.chunk.js",
+    "static/media/IMG_0843.jpg": "/jomills-bday/static/media/IMG_0843.60e3197f9cb5e6b6b649.jpg",
+    "static/media/IMG-20220616-WA0016.jpg": "/jomills-bday/static/media/IMG-20220616-WA0016.0a15fa27dd44eedfcbbc.jpg",
+    "static/media/IMG-20220616-WA0015.jpg": "/jomills-bday/static/media/IMG-20220616-WA0015.e93759566f2976f841a4.jpg",
+    "static/media/IMG-20220616-WA0021.jpg": "/jomills-bday/static/media/IMG-20220616-WA0021.fc7f3c9914dafc47887a.jpg",
+    "static/media/IMG-20220616-WA0019.jpg": "/jomills-bday/static/media/IMG-20220616-WA0019.2476becbf366a7c00833.jpg",
+    "static/media/IMG-20220616-WA0018.jpg": "/jomills-bday/static/media/IMG-20220616-WA0018.57eb17f501d055e0bc19.jpg",
+    "static/media/IMG-20220616-WA0014.jpg": "/jomills-bday/static/media/IMG-20220616-WA0014.11bad72c841ac2811a61.jpg",
+    "static/media/IMG-20220403-WA0050.jpg": "/jomills-bday/static/media/IMG-20220403-WA0050.ca34ae7e2a1067ce7837.jpg",
+    "static/media/IMG-20220616-WA0020.jpg": "/jomills-bday/static/media/IMG-20220616-WA0020.972c18fd3134d6d34ced.jpg",
+    "index.html": "/jomills-bday/index.html",
+    "main.f511bc73.css.map": "/jomills-bday/static/css/main.f511bc73.css.map",
+    "main.d660b408.js.map": "/jomills-bday/static/js/main.d660b408.js.map",
+    "787.626f0596.chunk.js.map": "/jomills-bday/static/js/787.626f0596.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f511bc73.css",
+    "static/js/main.d660b408.js"
+  ]
+}
